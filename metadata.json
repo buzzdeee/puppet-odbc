@@ -38,6 +38,12 @@
         "5",
         "6"
       ]
+    },
+    {
+      "operatingsystem": "SLES",
+      "operatingsystemrelease": [
+        "11"
+      ]
     }
   ],
   "puppet_version": [
